@@ -1,0 +1,22 @@
+{
+    "name": "dark-bliss-reloaded",
+    "displayName": "Dark Bliss Reloaded",
+    "description": "A simple theme ported from the Visual Studio Dark Bliss theme.",
+    "version": "0.0.1",
+    "publisher": "rootix",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Bliss Reloaded",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Bliss Reloaded-color-theme.json"
+            }
+        ]
+    }
+}
