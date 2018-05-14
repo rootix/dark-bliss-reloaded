@@ -86,7 +86,10 @@
 				"storage.type.function",
 				"support.function",
 				"variable.other.object",
-				"variable.other.readwrite"
+				"variable.other.readwrite",
+				"variable.other.property",
+				"meta.brace.round",
+				"punctuation.accessor"
 			],
 			"settings": {
 				"foreground": "#ffffff"
@@ -101,11 +104,12 @@
 				"keyword.operator.new",
 				"keyword.other.unit",
 				"storage.modifier",
-				"storage.type.class",
+				"meta.var.expr",
 				"support.type",			
 				"variable.language.this",
-				"meta.property-name.scss",
-				"entity.other.attribute-name.class.css"
+				"storage.type.class",
+				"storage.type.property",
+				"storage.type.ts"
 			],
 			"settings": {
 				"foreground": "#8ac6f2"
@@ -118,8 +122,7 @@
 				"entity.name.type.class",
 				"entity.name.type.interface",
 				"entity.other.attribute-name",
-				"support.constant.property-value.css",
-				"support.type.property-name.css",
+				"support.function",
 				"variable.language"
 			],
 			"settings": {
@@ -144,7 +147,7 @@
 		{
 			"name": "Red",
 			"scope": [
-				"keyword.other.important.scss"
+				"keyword.other.important"
 			],
 			"settings": {
 				"foreground": "#ff0000"
