@@ -5,7 +5,14 @@
     "version": "1.0.0",
     "publisher": "rootix",
     "engines": {
-        "vscode": "^1.23.0"
+        "vscode": "^1.21.0"
+    },
+    "bugs": {
+        "url": "https://github.com/rootix/dark-bliss-reloaded/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rootix/dark-bliss-reloaded"
     },
     "categories": [
         "Themes"
@@ -18,5 +25,10 @@
                 "path": "./themes/Dark Bliss Reloaded-color-theme.json"
             }
         ]
-    }
+    },
+    "keywords": [
+        "dark bliss",
+        "dark bliss reloaded",
+        "theme"
+    ]
 }

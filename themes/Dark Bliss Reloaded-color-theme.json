@@ -1,5 +1,5 @@
 {
-	"name": "Dark Bliss",
+	"name": "Dark Bliss Reloaded",
 	"colors": {
 		"activityBar.background": "#21252b",
 		"activityBar.dropBackground": "#21252b",
@@ -53,6 +53,7 @@
 		"list.inactiveSelectionBackground": "#21252b",
 		"list.hoverBackground": "#292d35",
 		"list.focusBackground": "#2c313a",
+		"notificationCenterHeader.background": "#21252b",
 		"notifications.background": "#21252b",
 		"panel.background": "#181A1F",
 		"panel.border": "#080A0F",
@@ -105,7 +106,7 @@
 				"keyword.other.unit",
 				"storage.modifier",
 				"meta.var.expr",
-				"support.type",			
+				"support.type",
 				"variable.language.this",
 				"storage.type.class",
 				"storage.type.property",
@@ -114,7 +115,7 @@
 			"settings": {
 				"foreground": "#8ac6f2"
 			}
-	  	},
+		},
 		{
 			"name": "Yellow Green",
 			"scope": [

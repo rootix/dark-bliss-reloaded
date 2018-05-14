@@ -1,11 +1,11 @@
 # Change Log
 
-## [1.0.0] - 2017-06-20
-### Added
-- Add support for active indent guide
+All notable changes to this project will be documented in this file.
 
-### Changed
-- Update notification center colors
+The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
+and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
-## [0.0.1] - 2018-12-02
-- Initial version
+## [Unreleased]
+
+## [1.0.0] - 2018-05-14
+- Initial release
