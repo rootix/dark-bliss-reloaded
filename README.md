@@ -15,3 +15,25 @@ The following languages were in focus while the initial development:
 * ![#cae682](https://placehold.it/15/cae682/000000?text=+) Yellow Green **#cae682**
 * ![#e5786d](https://placehold.it/15/e5786d/000000?text=+) Sunglo **#e5786d**
 * ![#8b9699](https://placehold.it/15/8b9699/000000?text=+) Oslo Gray **#8b9699**
+
+## Screenshots
+
+### C#
+
+![](https://raw.githubusercontent.com/rootix/dark-bliss-reloaded/master/screenshots/language-cs.png)
+
+### TypeScript
+
+![](https://raw.githubusercontent.com/rootix/dark-bliss-reloaded/master/screenshots/language-ts.png)
+
+### Sass
+
+![](https://raw.githubusercontent.com/rootix/dark-bliss-reloaded/master/screenshots/language-scss.png)
+
+### Html
+
+![](https://raw.githubusercontent.com/rootix/dark-bliss-reloaded/master/screenshots/language-html.png)
+
+# License
+
+MIT
