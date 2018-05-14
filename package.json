@@ -30,5 +30,11 @@
         "dark bliss",
         "dark bliss reloaded",
         "theme"
-    ]
+    ],
+    "icon": "images/icon.png",
+    "__metadata": {
+        "id": "e334eaf7-c92a-4ca6-95a3-74bcc25a76df",
+        "publisherId": "bed04c5f-5104-4744-9b6f-7b7971612c7f",
+        "publisherDisplayName": "Pascal Mathys"
+    }
 }

@@ -1,3 +1,4 @@
 .vscode/**
 .vscode-test/**
+samples/**
 .gitignore
