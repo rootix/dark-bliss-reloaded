@@ -2,7 +2,7 @@
     "name": "dark-bliss-reloaded",
     "displayName": "Dark Bliss Reloaded",
     "description": "A simple theme ported from the Visual Studio Dark Bliss theme.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "rootix",
     "engines": {
         "vscode": "^1.21.0"
